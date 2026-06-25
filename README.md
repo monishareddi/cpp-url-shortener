@@ -1,9 +1,7 @@
 
 # cpp-url-shortener
 
-A fully-featured, production-quality URL shortener backend written in **C++17**.
-No frameworks, no JavaScript, no Docker — just clean C++ compiled with CMake and
-running locally on Linux or WSL.
+A production-style URL shortener backend written in C++17. It provides REST APIs for creating, managing, and deleting shortened URLs; supports custom aliases and expiry; performs HTTP redirects; and tracks click analytics using SQLite.
 
 ---
 
