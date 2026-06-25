@@ -712,6 +712,28 @@ starts.  Delete it to reset all data.
 
 ---
 
+---
+
+## Demo Screenshots
+
+### Server Running
+
+![Server Running](screenshots/server-running.png)
+
+### Create Short URL
+
+![Create URL](screenshots/create-url.jpeg)
+
+### Redirect Success
+
+![Redirect Success](screenshots/redirect-success.png)
+
+### Click Analytics
+
+![Analytics](screenshots/analytics.png)
+
+---
+
 ## License
 
 MIT – free to use, modify, and distribute.
